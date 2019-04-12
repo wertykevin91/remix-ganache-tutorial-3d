@@ -10,7 +10,6 @@ contract TutorialContract1 {
         ownerName = _ownerName;
         version = _version;
 
-        message = "";
         ownerAddress = msg.sender;
 
     }
